@@ -27,5 +27,18 @@ let someNumebr = 25
 // console.log(typeof someNumebr);
 
 let stringNumber = String(someNumebr)
-console.log(stringNumber);
-console.log(typeof stringNumber);
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
+
+
+//***************************************operation****************************************************/
+
+let value = 3
+let negvalue = -value
+// console.log(negvalue);
+
+
+let gamecounter = 100
+gamecounter++
+console.log(gamecounter);
+
